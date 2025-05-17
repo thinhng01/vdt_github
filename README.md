@@ -10,8 +10,8 @@ Git command practice
 VDT Git assginment
 
 ### Files used
-bikishare.py #Handle logic
-README.md #Project information and guide for using
+- `bikishare.py` – Handle logic
+- `README.md` – Project information and guide for using
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
