@@ -167,7 +167,10 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
+    """Displays statistics on the total and average trip duration.
+    Args:
+        (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
+    """
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
