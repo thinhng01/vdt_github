@@ -7,7 +7,7 @@
 Git command practice
 
 ### Description
-VDT Git assginment
+VDT-Cloud Git assginment
 
 ### Files used
 - `bikishare.py` – Handle logic
